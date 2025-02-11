@@ -1,1 +1,2 @@
-# projekta
+# projekta 
+Szerkeszti Kármán Szabolcs és Harkányi Dániel
