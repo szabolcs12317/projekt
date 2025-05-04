@@ -1,0 +1,1 @@
+a videó elérési linkje:
